@@ -1,0 +1,70 @@
+Converted junctions=4088, reservoirs=2, tanks=0, pipes=4046, pumps=34, pump_curves=34, skipped_links=0
+SWMM FLOW_UNITS is CMS. EPANET does not support CMS, so output UNITS is set to LPS.
+[OUTFALLS] skipped ambiguous shifted row: OUTFALL          GID        FREE                        5.100000 FREE
+[OUTFALLS] skipped row because elevation/type pattern is not valid: Hub              Overflow   FREE                        FREE     NO
+Created missing node OUTFALL GID 192613 at elevation 0
+Renamed ID 'McManus Rd MH01' to 'McManus_Rd_MH01' for EPANET compatibility
+Renamed ID 'McManus Rd MH02' to 'McManus_Rd_MH02' for EPANET compatibility
+Renamed ID 'McManus Rd MH03' to 'McManus_Rd_MH03' for EPANET compatibility
+Renamed ID 'McManus Rd MH04' to 'McManus_Rd_MH04' for EPANET compatibility
+Renamed ID 'McManus Rd MH05' to 'McManus_Rd_MH05' for EPANET compatibility
+Renamed ID 'McManus Rd MH06' to 'McManus_Rd_MH06' for EPANET compatibility
+Renamed ID 'Heales Rd Tank-1-Inlet' to 'Heales_Rd_Tank-1-Inlet' for EPANET compatibility
+Renamed ID 'Heales Rd Tank-2' to 'Heales_Rd_Tank-2' for EPANET compatibility
+Renamed ID 'Heales Rd Tank-1' to 'Heales_Rd_Tank-1' for EPANET compatibility
+Renamed ID 'Heales Rd Hub SPS' to 'Heales_Rd_Hub_SPS' for EPANET compatibility
+Renamed ID 'ERE J-2' to 'ERE_J-2' for EPANET compatibility
+Renamed ID 'ERE J-3' to 'ERE_J-3' for EPANET compatibility
+Renamed ID 'ERE J-4' to 'ERE_J-4' for EPANET compatibility
+Renamed ID 'ERE J-5' to 'ERE_J-5' for EPANET compatibility
+Renamed ID 'ERE J-6' to 'ERE_J-6' for EPANET compatibility
+Renamed ID 'ERE J-7' to 'ERE_J-7' for EPANET compatibility
+Renamed ID 'MH10_(PROPOSED)' to 'MH10__PROPOSED' for EPANET compatibility
+Renamed ID 'MH11_(PROPOSED)' to 'MH11__PROPOSED' for EPANET compatibility
+Renamed ID 'MH12_(PROPOSED)' to 'MH12__PROPOSED' for EPANET compatibility
+Renamed ID 'MH13_(PROPOSED)' to 'MH13__PROPOSED' for EPANET compatibility
+Renamed ID 'C453 RM_04' to 'C453_RM_04' for EPANET compatibility
+Renamed ID 'C453 RM_03' to 'C453_RM_03' for EPANET compatibility
+Renamed ID 'C453 RM_02' to 'C453_RM_02' for EPANET compatibility
+Renamed ID 'C453 RM_01' to 'C453_RM_01' for EPANET compatibility
+Renamed ID 'SPS No.15_RM01' to 'SPS_No.15_RM01' for EPANET compatibility
+Renamed ID 'SPS No15_RM02' to 'SPS_No15_RM02' for EPANET compatibility
+Renamed ID 'SPS No.7_RM01' to 'SPS_No.7_RM01' for EPANET compatibility
+Renamed ID 'SPS No7_RM02' to 'SPS_No7_RM02' for EPANET compatibility
+Renamed ID 'New SPS1_RM1' to 'New_SPS1_RM1' for EPANET compatibility
+Renamed ID 'New SPS1_RM2' to 'New_SPS1_RM2' for EPANET compatibility
+Renamed ID 'New SPS1_RM3' to 'New_SPS1_RM3' for EPANET compatibility
+Renamed ID 'MH14_(PROPOSED)' to 'MH14__PROPOSED' for EPANET compatibility
+Renamed ID 'MH15_(PROPOSED)' to 'MH15__PROPOSED' for EPANET compatibility
+Renamed ID 'MH17_(PROPOSED)' to 'MH17__PROPOSED' for EPANET compatibility
+Renamed ID 'MH18_(PROPOSED)' to 'MH18__PROPOSED' for EPANET compatibility
+Renamed ID 'MH19_(PROPOSED)' to 'MH19__PROPOSED' for EPANET compatibility
+Renamed ID 'MH20_(PROPOSED)' to 'MH20__PROPOSED' for EPANET compatibility
+Renamed ID 'MH21_(PROPOSED)' to 'MH21__PROPOSED' for EPANET compatibility
+Renamed ID 'MH16_(PROPOSED)' to 'MH16__PROPOSED' for EPANET compatibility
+Renamed ID 'New ERE SPS' to 'New_ERE_SPS' for EPANET compatibility
+Renamed ID 'ERE J-1' to 'ERE_J-1' for EPANET compatibility
+Renamed ID 'MH9_(PROPOSED)' to 'MH9__PROPOSED' for EPANET compatibility
+Renamed ID 'SPS C444 North' to 'SPS_C444_North' for EPANET compatibility
+Renamed ID 'SPS C453 Rezoning' to 'SPS_C453_Rezoning' for EPANET compatibility
+Renamed ID 'C444 RM_01' to 'C444_RM_01' for EPANET compatibility
+Renamed ID 'C444 MH_01' to 'C444_MH_01' for EPANET compatibility
+Renamed ID 'C444 SPS Out' to 'C444_SPS_Out' for EPANET compatibility
+Renamed ID 'C453 SPS Out' to 'C453_SPS_Out' for EPANET compatibility
+Renamed ID 'C453 MH_01' to 'C453_MH_01' for EPANET compatibility
+Renamed ID 'SPS C453 Inlet' to 'SPS_C453_Inlet' for EPANET compatibility
+Renamed ID 'C444 MH_02' to 'C444_MH_02' for EPANET compatibility
+Renamed ID 'OUTFALL GID 192613' to 'OUTFALL_GID_192613' for EPANET compatibility
+Renamed ID 'MH13_(PROPOSED).1' to 'MH13__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH12_(PROPOSED).1' to 'MH12__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH11_(PROPOSED).1' to 'MH11__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH19_(PROPOSED).1' to 'MH19__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH21_(PROPOSED).1' to 'MH21__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH20_(PROPOSED).1' to 'MH20__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH18_(PROPOSED).1' to 'MH18__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH17_(PROPOSED).1' to 'MH17__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH16_(PROPOSED).1' to 'MH16__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH15_(PROPOSED).1' to 'MH15__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH14_(PROPOSED).1' to 'MH14__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH9_(PROPOSED).1' to 'MH9__PROPOSED_.1' for EPANET compatibility
+Renamed ID 'MH10_(PROPOSED).1' to 'MH10__PROPOSED_.1' for EPANET compatibility
